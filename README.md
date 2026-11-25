@@ -9,7 +9,7 @@ This project demonstrates an IoT-based lift monitoring system using the NodeMCU 
 - NodeMCU ESP8266
 - Sensors used for lift monitoring
 - Jumper wires
-- Power supply
+- USB Power supply
 
 ## Software Requirements
 
